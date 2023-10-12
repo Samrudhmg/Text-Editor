@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+
+
+
+.demo{
+  color: rgb(20, 36, 210);
+  font-family:cursive;
+  display: flex;
+  justify-content: center;
+  
+}
+.demo:hover{
+  color: brown;
+  cursor: pointer;
+}
+
+.navbar-brand{
+   font-size: 25px;
+}
+.navbar-brand:hover{
+  color: rgb(9, 100, 63);
+  cursor: pointer;
+}
+.italic{
+  font-style:italic;
+}
